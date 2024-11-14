@@ -4,14 +4,6 @@
     box-sizing: border-box;
 }
 
-/* :root{
-    --body-background:#C9E6F0;
-    --header-background:#78B3CE;
-    --button-hover:#2e9dd1;
-    --font-color:#222;
-    --themeicon-background:#C9E6F0;
-    --themeicon-fill:#222;
-} */
 .lightmode{
     --body-background:#C9E6F0;
     --header-background:#78B3CE;
